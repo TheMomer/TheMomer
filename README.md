@@ -16,7 +16,7 @@ My PC Specifications:
 
 - WM: i3
 
-- Storage: 1TB HDD + 1TB SSD
+- Storage: 1 TB HDD + 1 TB SSD
 
 My Telegram: @kernel_panic198 
 
