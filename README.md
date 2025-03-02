@@ -17,7 +17,7 @@ My PC Specifications:
 - OS: Debian GNU/Linux 12
 
 
-My Telegram: @kernel_panic198 
+My Telegram: @pernel_kanic198
 
 Don't just text me!!
 
