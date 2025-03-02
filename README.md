@@ -11,12 +11,11 @@ My PC Specifications:
 - CPU: Intel i3-4170 (4) @ 3.700 GHz
 
 - Motherboard: ASUS H81M-K Rev X.0x
+- 
+- Storage: 1 TB HDD + 1 TB SSD
 
 - OS: Debian GNU/Linux 12
 
-- WM: i3
-
-- Storage: 1 TB HDD + 1 TB SSD
 
 My Telegram: @kernel_panic198 
 
