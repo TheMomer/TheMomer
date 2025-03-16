@@ -1,3 +1,5 @@
+<i>Pardon my bad English</i>
+
 ### Hi there 👋
 
 I'm TheMomer, or Momer, writing programs usually in Python.
