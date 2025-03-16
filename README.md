@@ -14,4 +14,4 @@ My Telegram channel: [TheMomerChannel](https://t.me/themomerchannel) (But it's o
 My Telegram: [@pernel_kanic198](https://t.me/pernel_kanic198)
 
 ## Cat
-<img src="https://github.com/TheMomer/TheMomer/blob/main/cat.jpg" alt="ad"/>
+<img src="https://github.com/TheMomer/TheMomer/blob/main/cat.jpg?width=300&height=300" alt="ad"/>
