@@ -12,6 +12,3 @@ There are quite a few of them. I'll be posting them on GitHub soon.
 My Telegram channel: [TheMomerChannel](https://t.me/themomerchannel) (But it's only in Russian)
 
 My Telegram: [@pernel_kanic198](https://t.me/pernel_kanic198)
-
-## Cat
-<img src="https://github.com/TheMomer/TheMomer/blob/main/cat.jpg?width=100&height=100" alt="ad"/>
