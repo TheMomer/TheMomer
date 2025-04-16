@@ -2,10 +2,8 @@
 
 ### Hi there 👋
 
-I'm TheMomer, or Momer, writing programs usually in Python and Go.
-
 ## About me
-I am TheMomer or Momer. I'm interested in Linux and programming. I also love cats.
+I am TheMomer or Momer. I am interested in Linux and programming. I usually write programs in Python and Go.
 
 ## Links
 My Telegram channel: [TheMomerChannel](https://t.me/themomerchannel) (But it's only in Russian)
