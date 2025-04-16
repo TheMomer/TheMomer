@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm TheMomer, or Momer, writing programs usually in Python.
+I'm TheMomer, or Momer, writing programs usually in Python and Go.
 
 ## About me
 I am TheMomer or Momer. I'm interested in Linux and programming. I also love cats.
