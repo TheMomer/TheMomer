@@ -8,4 +8,4 @@ I am TheMomer or Momer. I am interested in Linux and programming. I usually writ
 ## Links
 My Telegram channel: [TheMomerChannel](https://t.me/themomerchannel) (But it's only in Russian)
 
-My Telegram: [@pernel_kanic198](https://t.me/pernel_kanic198)
+My Telegram: [@kde_konqi198](https://t.me/kde_konqi198)
